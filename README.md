@@ -12,3 +12,5 @@ The store doesn’t have a clear idea about :-
 3.which items bring in the most profit
 
 4.where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+
+##Data set link from Kaggle: https://www.kaggle.com/datasets/ankit...
