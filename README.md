@@ -13,4 +13,4 @@ The store doesn’t have a clear idea about :-
 
 4.where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
 
-##Data set link from Kaggle: https://www.kaggle.com/datasets/ankit...
+##Data set link from Kaggle: https://www.kaggle.com/datasets/ankitrajmishra/sales-store
